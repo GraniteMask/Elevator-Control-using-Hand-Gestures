@@ -50,8 +50,8 @@ Although, I can show you the output ScreenShots....
 
 ### Best of Luck:
 
-![Best of Luck](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/Best_of_Luck.png?raw=true)
+![Best of Luck](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/Best_of_luck.png?raw=true)
 
 ### Put Hand in the Box:
 
-![Put Hand in the Box](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/Put_Hand_in_the_Box.png?raw=true)
+![Put Hand in the Box](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/Put_hand_in_the_box.png?raw=true)
