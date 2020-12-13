@@ -22,4 +22,6 @@ Although, I can show you the output ScreenShots....
 
 ### 0:
 
+![0](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/master/0.png?raw=true)
+
 
