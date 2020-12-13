@@ -24,4 +24,34 @@ Although, I can show you the output ScreenShots....
 
 ![0](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/0.png?raw=true)
 
+### 1:
 
+![1](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/neural.png?raw=true)
+
+### 2:
+
+![2](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/2.png?raw=true)
+
+### 3:
+
+![3](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/3.png?raw=true)
+
+### 4:
+
+![4](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/4.png?raw=true)
+
+### 5:
+
+![5](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/5.png?raw=true)
+
+### ok:
+
+![5](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/ok.png?raw=true)
+
+### Best of Luck:
+
+![Best of Luck](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/Best_of_Luck.png?raw=true)
+
+### Put Hand in the Box:
+
+![Put Hand in the Box](https://github.com/GraniteMask/Elevator-Control-using-Hand-Gestures/blob/main/Put_Hand_in_the_Box.png?raw=true)
